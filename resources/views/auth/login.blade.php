@@ -45,7 +45,6 @@
                                     {{ __('Login') }}
                                 </button>
 
- 
                             </div>
                         </div>
                     </form>
